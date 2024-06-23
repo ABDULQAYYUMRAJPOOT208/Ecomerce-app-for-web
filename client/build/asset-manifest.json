@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ecomerce-app-for-web/static/css/main.b90f93fe.css",
+    "main.js": "/Ecomerce-app-for-web/static/js/main.65744ba8.js",
+    "static/js/453.419a5d54.chunk.js": "/Ecomerce-app-for-web/static/js/453.419a5d54.chunk.js",
+    "static/media/about.jpg": "/Ecomerce-app-for-web/static/media/about.d06f4935d7e2491185c4.jpg",
+    "index.html": "/Ecomerce-app-for-web/index.html",
+    "main.b90f93fe.css.map": "/Ecomerce-app-for-web/static/css/main.b90f93fe.css.map",
+    "main.65744ba8.js.map": "/Ecomerce-app-for-web/static/js/main.65744ba8.js.map",
+    "453.419a5d54.chunk.js.map": "/Ecomerce-app-for-web/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90f93fe.css",
+    "static/js/main.65744ba8.js"
+  ]
+}
